@@ -1,0 +1,17 @@
+{
+  "version": "2.1.0",
+  "notes": "Free version: TODAY's HIGH/MEDIUM news markers with flags on the time axis (intraday only).",
+  "downloadUrl": "https://github.com/badbuddhatrades/BadBuddhaNewsMarkersLite",
+  "published": "2025-09-06",
+  "author": "BadBuddhaCustoms",
+  "breakingChanges": false,
+  "changelog": [
+    "Updated release of BadBuddha NewsMarkers Lite",
+    "Displays today's high and medium impact news events",
+    "Shows country flags on time axis",
+    "Supports vertical guide lines at event times",
+    "Auto-reload CSV file functionality",
+    "Configurable vertical line opacity and thickness",
+    "Automatic update checking integrated"
+  ]
+}
