@@ -237,7 +237,7 @@ A: Upgrade to BadBuddha NewsMarkers PRO for configurable date ranges.
 
 ## License
 
-Copyright © 2025, Bad Buddha Customs LLC
+Copyright © 2025, BadBuddha Customs LLC
 Free version - No license required
 
 ---
